@@ -1,0 +1,5 @@
+.small-image {
+    width: 300px;
+    height: auto; /* 保持比例 */
+}
+

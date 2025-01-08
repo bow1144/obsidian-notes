@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "cssTheme": "Primary",
+  "interfaceFontFamily": "Arial Unicode MS",
+  "textFontFamily": "霞鹜文楷等宽 GB",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "font"
+  ]
+}

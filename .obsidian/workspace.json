@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "4adf3fc194dd7184",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e51f979d648110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d487198c4a28a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/RPC项目/Part 3 ZooKeeper/为什么使用ZK，而不是别的分布式协调服务？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "为什么使用ZK，而不是别的分布式协调服务？"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d07d6da3d12696c",
+    "type": "split",
+    "children": [
+      {
+        "id": "116a9a25d57c254b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6d8c43f5d5124ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f7ced4cc995fe9b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e72850c245d627b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "acb91da0b7455a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a7da2f3ea775b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca84825d351e913e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mode"
+            }
+          },
+          {
+            "id": "b0c08ab6362d4b6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "社会心理学——中国“河长制”治理模式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "社会心理学——中国“河长制”治理模式 的出链列表"
+            }
+          },
+          {
+            "id": "9141024ed01879fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95b5368eb42420fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "社会心理学——中国“河长制”治理模式.md"
+              },
+              "icon": "lucide-list",
+              "title": "社会心理学——中国“河长制”治理模式 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "14d487198c4a28a2",
+  "lastOpenFiles": [
+    "面试/RPC项目/AINDEX.md",
+    "面试/RPC项目/Part 4 序列化/为什么选择JSON序列化协议？.md",
+    "面试/RPC项目/Part 4 序列化/将User对象从客户端传递到服务器的过程？.md",
+    "面试/RPC项目/Part 4 序列化/序列化和编码的区别是什么？.md",
+    "面试/RPC项目/Part 4 序列化",
+    "面试/RPC项目/Part 3 ZooKeeper/ZooKeeper有什么特殊的机制？.md",
+    "数据处理课设/数据处理课设：流媒体码率的自适应算法.md",
+    "面试/RPC项目/Part 3 ZooKeeper/如果主节点宕机，服务注册和发现会有什么影响？如何优化？.md",
+    "面试/RPC项目/Part 3 ZooKeeper/未命名.md",
+    "面试/RPC项目/Part 3 ZooKeeper/为什么使用ZK，而不是别的分布式协调服务？.md",
+    "面试/RPC项目/Part 3 ZooKeeper",
+    "面试/RPC项目/Part 2 Netty/Netty 处理器的主要结构是什么？.md",
+    "面试/RPC项目/Part 2 Netty/为什么选择了Netty框架，有什么优势？.md",
+    "面试/RPC项目/Part 2 Netty/你自定义了Netty的编解码器吗？.md",
+    "面试/RPC项目/Part 2 Netty",
+    "面试/RPC项目/Part 1/有了解什么 RPC 框架吗？.md",
+    "面试/RPC项目/Part 1/RPC 是什么？你对 RPC 的理解是什么？.md",
+    "面试/RPC项目/Part 1/为什么要做这个 RPC 项目？.md",
+    "面试/RPC项目/未命名.md",
+    "面试/RPC项目/Part 1",
+    "面试.md",
+    "面试/RPC项目",
+    "面试",
+    "数据处理课设/image",
+    "数据处理课设",
+    "数据处理课设/image/{827436F1-1ED1-41ED-875E-8405463F2BE0}.png",
+    "数据处理课设/image/{4C9CE716-2473-45FB-8FA4-41B14F4D6ADC}.png",
+    "数据处理课设/image/{9F33A96C-0804-4F45-BC4E-9E47EF55999F}.png",
+    "数据处理课设/image/{48C7C640-4037-4FFF-ADBF-841D2E882B1B}.png",
+    "数据处理课设/image/{364C95F3-19FB-4E7D-AF3C-311DD4F530C7}.png",
+    "数据处理课设/image/{5DD8DBC6-16BD-4C12-AF62-71D8D1B97E11}.png",
+    "数据处理课设/image/{F27F37DD-6476-4767-9CD2-EE9728A4B922}.png",
+    "数据处理课设/image/{5866B044-AFD8-45E3-972C-118FA518B92C}.png",
+    "数据处理课设/image/{5F798181-6BD7-4B5F-B239-75BBDEC18D40}.png",
+    "数据处理课设/image/{0EBBA4E9-F46D-4E4D-8450-BCCA7A1F08F6}.png",
+    "R语言/图形.md",
+    "R语言/数据分析.md",
+    "R语言/数据管理.md",
+    "R语言/数据结构.md",
+    "R语言/R语言的基础使用.md",
+    "R语言/分类和聚类.md",
+    "R语言/R语言期末复习.md",
+    "R语言/image",
+    "R语言",
+    "R语言的输入输出.md",
+    "2025-01-01.md",
+    "MODE/Untitled.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Untitled 1.canvas"
+  ]
+}
