@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "25e51f979d648110",
+        "id": "bf7d8022cfd1caab",
         "type": "tabs",
         "children": [
           {
-            "id": "14d487198c4a28a2",
+            "id": "c899c3ef32be95a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理课设/数据处理课设：流媒体码率的自适应算法.md",
+                "file": "数据结构/数据结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据处理课设：流媒体码率的自适应算法"
-            }
-          },
-          {
-            "id": "52c51e2146f0e792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毛概大题复习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "毛概大题复习"
+              "title": "数据结构"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "acb91da0b7455a55",
@@ -179,10 +163,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "52c51e2146f0e792",
+  "active": "c899c3ef32be95a8",
   "lastOpenFiles": [
-    "数据处理课设/数据处理课设：流媒体码率的自适应算法.md",
+    "数据结构/1. 绪论/算法的空间复杂度.md",
+    "数据结构/1. 绪论/算法的时间复杂度.md",
+    "数据结构/1. 绪论/算法的基本概念.md",
+    "数据结构/1. 绪论/image/{2446C84D-EB35-471F-9E53-2398F0C7C453}.png",
+    "数据结构/1. 绪论/image/{2E4BE27B-B77F-4A60-8994-A03ECF064045}.png",
+    "数据结构/1. 绪论/image/{4014CF09-CCB3-45E2-97A2-A4D1DA8884D3}.png",
+    "数据结构/1. 绪论/image/{FAA2913E-F497-49A9-88C5-A8BC7DAB4CA0}.png",
+    "数据结构/1. 绪论/image/{22949A34-482C-49A5-8295-8836FB321BB2}.png",
+    "数据结构/1. 绪论/image/{69AD4BD2-0601-4880-863A-8A809AB63676}.png",
+    "数据结构/1. 绪论/image/{D4910E31-0761-4B0C-A9CA-D1ACFA93DE82}.png",
+    "数据结构/1. 绪论/image/{41D51BD0-EF13-4E3A-8800-55BC5BA3F5B1}.png",
+    "数据结构/1. 绪论/image/{338AF78E-9EB7-448B-9AB0-FD4624ECECA1}.png",
+    "数据结构/1. 绪论/image/{AAB02982-230F-4980-AEB5-8DE905AF3D9B}.png",
+    "数据结构/数据结构.md",
+    "数据结构/1. 绪论/基本概念和术语.md",
+    "数据结构/1. 绪论/数据结构三要素.md",
+    "数据结构/1. 绪论/image",
+    "数据结构/1. 绪论",
     "毛概大题复习.md",
+    "数据结构",
+    "数据处理课设/数据处理课设：流媒体码率的自适应算法.md",
     "面试/RPC项目/Part 3 ZooKeeper/为什么使用ZK，而不是别的分布式协调服务？.md",
     "面试/RPC项目/AINDEX.md",
     "面试/RPC项目/Part 4 序列化/为什么选择JSON序列化协议？.md",
@@ -206,27 +209,7 @@
     "面试/RPC项目",
     "面试",
     "数据处理课设/image",
-    "数据处理课设",
-    "数据处理课设/image/{827436F1-1ED1-41ED-875E-8405463F2BE0}.png",
-    "数据处理课设/image/{4C9CE716-2473-45FB-8FA4-41B14F4D6ADC}.png",
-    "数据处理课设/image/{9F33A96C-0804-4F45-BC4E-9E47EF55999F}.png",
-    "数据处理课设/image/{48C7C640-4037-4FFF-ADBF-841D2E882B1B}.png",
-    "数据处理课设/image/{364C95F3-19FB-4E7D-AF3C-311DD4F530C7}.png",
-    "数据处理课设/image/{5DD8DBC6-16BD-4C12-AF62-71D8D1B97E11}.png",
-    "数据处理课设/image/{F27F37DD-6476-4767-9CD2-EE9728A4B922}.png",
-    "数据处理课设/image/{5866B044-AFD8-45E3-972C-118FA518B92C}.png",
-    "数据处理课设/image/{5F798181-6BD7-4B5F-B239-75BBDEC18D40}.png",
-    "数据处理课设/image/{0EBBA4E9-F46D-4E4D-8450-BCCA7A1F08F6}.png",
     "R语言/图形.md",
-    "R语言/数据分析.md",
-    "R语言/数据管理.md",
-    "R语言/数据结构.md",
-    "R语言/R语言的基础使用.md",
-    "R语言/分类和聚类.md",
-    "R语言/R语言期末复习.md",
-    "R语言/image",
-    "R语言",
-    "R语言的输入输出.md",
     "MODE/Untitled.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
