@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0576d58ae0f1142",
+        "id": "731b47556d54126a",
         "type": "tabs",
         "children": [
           {
-            "id": "3613e6c0a4422300",
+            "id": "138283044d64cae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,87 +22,59 @@
             }
           },
           {
-            "id": "4a5e0ca9c7a18288",
+            "id": "91f3e4576f4b42b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/2.线性表/顺序表和链表的比较.md",
+                "file": "数据结构/3.栈、队列和数组/队列的定义和基本操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "顺序表和链表的比较"
+              "title": "队列的定义和基本操作"
             }
           },
           {
-            "id": "0da904ae9a7dd7db",
+            "id": "6a5cba933d231599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/2.线性表/静态链表.md",
+                "file": "数据结构/3.栈、队列和数组/队列的顺序存储和循环队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "静态链表"
+              "title": "队列的顺序存储和循环队列"
             }
           },
           {
-            "id": "51a47e637e817a62",
+            "id": "839515f555be0c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/数据结构.md",
+                "file": "数据结构/3.栈、队列和数组/队列的链式存储结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据结构"
+              "title": "队列的链式存储结构"
             }
           },
           {
-            "id": "f14fa0cb91c55727",
+            "id": "795f4fa2f413c383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/2.线性表/循环链表.md",
+                "file": "双端队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "循环链表"
-            }
-          },
-          {
-            "id": "2142b510cf7b498a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构/2.线性表/单链表的定义.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "单链表的定义"
-            }
-          },
-          {
-            "id": "f5e38262a48862e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构/2.线性表/单链表基本操作的实现.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "单链表基本操作的实现"
+              "title": "双端队列"
             }
           }
         ],
@@ -248,27 +220,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51a47e637e817a62",
+  "active": "e6d8c43f5d5124ae",
   "lastOpenFiles": [
-    "数据结构/2.线性表/循环链表.md",
-    "数据结构/2.线性表/双链表及其操作.md",
-    "数据结构/2.线性表/image/{6E8A2BE1-67FE-4E75-B527-16E6078300BA}.png",
-    "数据结构/2.线性表/image/{E78C7773-3D6C-47DA-A014-5F7B32EF7206}.png",
-    "数据结构/2.线性表/image/{07CCE3C4-A52C-4FDB-A2CC-34A41A36002D}.png",
-    "数据结构/2.线性表/单链表基本操作的实现.md",
-    "数据结构/2.线性表/image/{F63DA3D3-EA46-4CC2-A4BB-5233502EFFFC}.png",
-    "数据结构/2.线性表/单链表的定义.md",
-    "数据结构/2.线性表/image/{97B1BEE8-09E9-47E5-BF87-73AAE8F4DAD4}.png",
-    "数据结构/2.线性表/静态链表.md",
-    "数据结构/2.线性表/image/{B5F2FD03-7119-4926-999F-A0003485A5A3}.png",
-    "数据结构/2.线性表/顺序表和链表的比较.md",
-    "数据结构/2.线性表/image/{0C3D592F-4C53-4B21-BF83-020F246B19A4}.png",
-    "数据结构/2.线性表/image/{52C6D5A1-2CCB-47DD-8170-2D9EF7440683}.png",
-    "数据结构/2.线性表/image/{F27C04AB-E029-47ED-AAA8-CD32AB86FD40}.png",
-    "数据结构/2.线性表/image/{8BCBDCD1-CE5A-44F5-91FB-312E87A7E54B}.png",
+    "数据结构/3.栈、队列和数组/双端队列.md",
+    "数据结构/3.栈、队列和数组/队列的链式存储结构.md",
+    "数据结构/3.栈、队列和数组/队列的顺序存储和循环队列.md",
+    "数据结构/3.栈、队列和数组/队列的定义和基本操作.md",
+    "image/{0B357481-0353-46E3-9116-B8AA3531DCDB}.png",
+    "数据结构/3.栈、队列和数组/image/{125C39A8-84B6-4A1E-ADF7-437D21529912}.png",
+    "image/{DB4FBD37-24A6-419E-9B08-34EB8ADAB501}.png",
+    "数据结构/3.栈、队列和数组/image/{DB4FBD37-24A6-419E-9B08-34EB8ADAB501}.png",
+    "数据结构/3.栈、队列和数组/image/{22BE29EA-3DF4-4FC6-8823-2DCA05C9C505}.png",
+    "image/{84E07F84-94B4-4E52-825C-10CDB9DB3780}.png",
+    "image/{B685015B-0A4C-4080-9E0B-BD74AA84E3F4}.png",
+    "数据结构/3.栈、队列和数组/image/{D26B6B64-194E-4C33-9155-262805D571AD}.png",
+    "数据结构/3.栈、队列和数组/image/{AD3EBB5A-F2A3-495B-8C31-963D655D275E}.png",
+    "数据结构/3.栈、队列和数组/image/{8F3E35BC-6EF2-4DD9-9942-6D47E6FD08E7}.png",
     "数据结构/数据结构.md",
+    "image",
+    "数据结构/3.栈、队列和数组/顺序栈的实现和基本操作.md",
+    "数据结构/1. 绪论/数据结构三要素.md",
+    "数据结构/3.栈、队列和数组/栈的链式存储结构.md",
+    "数据结构/3.栈、队列和数组/栈的定义和基本操作.md",
+    "数据结构/3.栈、队列和数组/image",
+    "数据结构/3.栈、队列和数组",
+    "数据结构/2.线性表/循环链表.md",
+    "数据结构/2.线性表/顺序表的定义.md",
+    "数据结构/2.线性表/顺序表和链表的比较.md",
+    "数据结构/2.线性表/静态链表.md",
+    "数据结构/2.线性表/双链表及其操作.md",
+    "数据结构/2.线性表/单链表基本操作的实现.md",
+    "数据结构/2.线性表/单链表的定义.md",
     "数据处理课设/数据处理课设：流媒体码率的自适应算法.md",
-    "数据结构/2.线性表/线性表的定义.md",
     "数据结构/2.线性表/顺序表上基本操作的实现.md",
     "数据结构/2.线性表/顺序表的定义和操作.md",
     "数据结构/2.线性表/线性表的链式表示.md",
@@ -278,23 +261,12 @@
     "毛概大题复习.md",
     "数据结构/1. 绪论/算法的时间复杂度.md",
     "数据结构/1. 绪论/算法的基本概念.md",
-    "数据结构/1. 绪论/数据结构三要素.md",
     "数据结构/1. 绪论/基本概念和术语.md",
-    "数据结构/1. 绪论/算法的空间复杂度.md",
     "数据结构/1. 绪论/image",
     "数据结构/1. 绪论",
     "数据结构",
-    "面试/RPC项目/Part 3 ZooKeeper/为什么使用ZK，而不是别的分布式协调服务？.md",
-    "面试/RPC项目/AINDEX.md",
-    "面试/RPC项目/Part 4 序列化/为什么选择JSON序列化协议？.md",
-    "面试/RPC项目/Part 4 序列化/将User对象从客户端传递到服务器的过程？.md",
-    "面试/RPC项目/Part 4 序列化/序列化和编码的区别是什么？.md",
     "面试/RPC项目/Part 4 序列化",
-    "面试/RPC项目/Part 3 ZooKeeper/ZooKeeper有什么特殊的机制？.md",
     "面试/RPC项目/Part 3 ZooKeeper",
-    "面试/RPC项目/Part 2 Netty",
-    "面试/RPC项目/Part 1",
-    "面试/RPC项目",
     "MODE/Untitled.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
