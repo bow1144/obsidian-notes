@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jun-21st -- Tea Bags Release Shocking Number of Plastic Particles into Your Drink.md",
+                "file": "数据结构/数据结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jun-21st -- Tea Bags Release Shocking Number of Plastic Particles into Your Drink"
+              "title": "数据结构"
             }
           }
         ],
@@ -181,11 +181,17 @@
   },
   "active": "65f161b912cecac7",
   "lastOpenFiles": [
-    "love.md",
+    "数据结构/6. 图/单源最短路的 Dijkstra 算法.md",
+    "数据结构/数据结构.md",
+    "数据结构/6. 图/最小生成树的 Prim 算法.md",
+    "数据结构/6. 图/最小生成树的 Kruskal 算法.md",
+    "[858..md",
+    "数据结构/6. 图/image/{40B9A644-62DC-4793-97B3-9B8F2B591594}.png",
+    "数据结构/6. 图/最小生成树的概念和性质.md",
     "Jun-21st -- Tea Bags Release Shocking Number of Plastic Particles into Your Drink.md",
+    "love.md",
     "convenience.md",
     "数据处理课设/数据处理课设：流媒体码率的自适应算法.md",
-    "数据结构/数据结构.md",
     "数据结构/6. 图/图的遍历与连通性.md",
     "数据结构/6. 图/DFS 的实现.md",
     "数据结构/6. 图/BFS 的应用.md",
@@ -198,7 +204,6 @@
     "数据结构/6. 图/image/{057B81FC-581C-4F84-960E-7EF6E9A49461}.png",
     "数据结构/6. 图/image/{BC93AFB9-1853-4614-8414-AFE19E27AD8C}.png",
     "数据结构/6. 图/image/{80545352-16B9-417C-B54A-98051521DF86}.png",
-    "数据结构/6. 图/image/{20C78594-8BCD-453C-94D6-EC376039F536}.png",
     "数据结构/6. 图/BFS 的实现.md",
     "数据结构/6. 图/图的基本操作.md",
     "数据结构/6. 图/图的四种存储方式的区别.md",
@@ -214,11 +219,6 @@
     "数据结构/5. 树与二叉树/并查集的概念和存储结构.md",
     "数据结构/5. 树与二叉树/哈夫曼编码.md",
     "数据结构/5. 树与二叉树/哈夫曼树.md",
-    "数据结构/5. 树与二叉树/森林的遍历.md",
-    "数据结构/5. 树与二叉树/树的存储结构.md",
-    "数据结构/5. 树与二叉树/二叉树与森林之间的转换.md",
-    "数据结构/5. 树与二叉树/树的遍历.md",
-    "数据结构/4. 串/简单的模式匹配.md",
     "数据结构/5. 树与二叉树/image",
     "数据结构/5. 树与二叉树",
     "数据结构/4. 串/image",
