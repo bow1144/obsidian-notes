@@ -18,3 +18,8 @@ void Kruskal(V, T) {
 	- 循环：按G的边权值递增依次从 $E-E_T$ 选择一条边，若不构成回路则加入，否则舍弃
 - 堆优化的 Kruskal 算法时间复杂度为 $O(|E| \log_2 |E|)$，适合边稀疏而顶点多的图
 - Kruskal 算法整体程序：[859. Kruskal算法求最小生成树 - AcWing题库](https://www.acwing.com/problem/content/submission/code_detail/36492517/)
+
+-------------
+![[{52AAEE8C-D059-41BF-BF41-DD11A63EF945}.png]]
+不可能选成环的
+C
