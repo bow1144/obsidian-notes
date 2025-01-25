@@ -23,3 +23,7 @@ void Kruskal(V, T) {
 ![[{52AAEE8C-D059-41BF-BF41-DD11A63EF945}.png]]
 不可能选成环的
 C
+
+![[{E3BFED8F-7771-41A0-BA3C-F27BD34BF673}.png]]
+边加入：bf bd ae ec be
+A
