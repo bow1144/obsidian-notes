@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/7. 查找/红黑树的定义.md",
+                "file": "英语阅读/0129 Is Obesity a Disease？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "红黑树的定义"
+              "title": "0129 Is Obesity a Disease？"
             }
           }
         ],
@@ -181,12 +181,14 @@
   },
   "active": "65f161b912cecac7",
   "lastOpenFiles": [
+    "数据结构/数据结构.md",
+    "英语阅读/0129 Is Obesity a Disease？.md",
+    "数据结构/7. 查找/红黑树的定义.md",
+    "英语阅读",
     "数据结构/7. 查找/image/{80CE6E6E-5397-468C-8C2B-CFBC1C47A732}.png",
     "数据结构/7. 查找/image/{AAB3A4D7-A2DD-422C-A7CF-02A2CCB684B0}.png",
     "数据结构/7. 查找/image/{42DADDCF-432C-4D8E-B2B6-31E2F765C9B4}.png",
-    "数据结构/数据结构.md",
     "数据结构/7. 查找/平衡二叉树 AVL 的操作.md",
-    "数据结构/7. 查找/红黑树的定义.md",
     "数据结构/7. 查找/image/{E7AE35CD-AF2C-441F-8D1D-4C396981040A}.png",
     "数据结构/7. 查找/image/{0F76D3D9-5FAE-451D-80AE-B1E6CF034837}.png",
     "数据结构/7. 查找/image/{00E23800-5EDE-428B-A7EF-F65597AF4E31}.png",
@@ -198,7 +200,6 @@
     "数据结构/7. 查找/image/{E6562269-05CD-45CC-A57A-5923DAC4E77E}.png",
     "数据结构/7. 查找/二叉排序树 BST 的操作.md",
     "未命名.md",
-    "数据结构/7. 查找/image/{679816E5-D299-4FD9-9576-7E8874649E7A}.png",
     "数据结构/7. 查找/红黑树的操作.md",
     "数据结构/7. 查找/折半查找.md",
     "数据结构/7. 查找/顺序查找.md",
@@ -226,7 +227,6 @@
     "数据结构/4. 串/image",
     "数据结构/4. 串",
     "MODE/image",
-    "数据结构/3.栈、队列和数组/image",
     "MODE/Untitled.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
