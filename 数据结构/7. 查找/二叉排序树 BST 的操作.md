@@ -36,3 +36,11 @@ void Delete_BNode(BiTree &parent, BiTree &node) {
 	}
 } 
 ```
+
+-------
+![[{E2429D43-79F4-41BF-9193-AB3D0550D45E}.png]]如果是叶子结点，那么插入路径固定，II正确
+如果不是叶节点，T3就是叶节点了，III正确
+C
+
+![[{3E503E82-1F60-42E6-8DAD-AFB342AFAE65}.png]]
+B

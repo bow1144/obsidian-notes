@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/数据结构.md",
+                "file": "数据结构/7. 查找/BTree 的操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据结构"
-            }
-          },
-          {
-            "id": "65f161b912cecac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "竞赛/市场调查/选题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "选题"
+              "title": "BTree 的操作"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,31 +164,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "65f161b912cecac7",
+  "active": "138283044d64cae7",
   "lastOpenFiles": [
+    "数据结构/7. 查找/image/{1D1BCACB-3BDB-4592-ADFA-A7EAFC374714}.png",
+    "数据结构/数据结构.md",
+    "数据结构/7. 查找/BTree 的操作.md",
+    "数据结构/7. 查找/BTree 的查找.md",
+    "数据结构/7. 查找/BTree 的定义和特点.md",
+    "数据结构/7. 查找/image/{D7940F40-0ECC-458B-8873-5A31CF314978}.png",
+    "数据结构/7. 查找/红黑树的操作.md",
+    "数据结构/7. 查找/红黑树的定义.md",
+    "数据结构/7. 查找/平衡二叉树 AVL 的操作.md",
+    "数据结构/7. 查找/image/{CE72604F-17EC-4EDF-8F2F-0B08ADE2ED8F}.png",
+    "数据结构/7. 查找/平衡二叉树 AVL 的定义和查找.md",
+    "数据结构/7. 查找/二叉排序树 BST 的操作.md",
+    "数据结构/7. 查找/二叉排序树 BST 的定义和查找.md",
+    "数据结构/7. 查找/image/{64D807D1-C6BD-4E56-ACD3-DD8D1DBE8766}.png",
+    "数据结构/7. 查找/image/{3E503E82-1F60-42E6-8DAD-AFB342AFAE65}.png",
+    "数据结构/7. 查找/image/{7BB76E63-DB29-4E3F-812E-08108137F1E9}.png",
+    "数据结构/7. 查找/image/{E9735DFF-D2C9-46CE-A470-E2248C186633}.png",
+    "数据结构/7. 查找/image/{383647CA-C213-4C40-85F6-FFD92AC6DD94}.png",
+    "数据结构/7. 查找/image/{5E88236C-DBD9-460B-A532-EC6BE4D733F8}.png",
+    "数据结构/7. 查找/image/{E2429D43-79F4-41BF-9193-AB3D0550D45E}.png",
+    "数据结构/7. 查找/image/{86A28D9A-6A56-4870-8C9C-F2A64B4FDF69}.png",
+    "竞赛/市场调查/选题.md",
     "竞赛/市场调查",
     "英语阅读/0129 Is Obesity a Disease？.md",
-    "竞赛/市场调查/选题.md",
     "竞赛",
-    "数据结构/数据结构.md",
-    "数据结构/7. 查找/红黑树的定义.md",
     "英语阅读",
-    "数据结构/7. 查找/image/{80CE6E6E-5397-468C-8C2B-CFBC1C47A732}.png",
-    "数据结构/7. 查找/image/{AAB3A4D7-A2DD-422C-A7CF-02A2CCB684B0}.png",
-    "数据结构/7. 查找/image/{42DADDCF-432C-4D8E-B2B6-31E2F765C9B4}.png",
-    "数据结构/7. 查找/平衡二叉树 AVL 的操作.md",
-    "数据结构/7. 查找/image/{E7AE35CD-AF2C-441F-8D1D-4C396981040A}.png",
-    "数据结构/7. 查找/image/{0F76D3D9-5FAE-451D-80AE-B1E6CF034837}.png",
-    "数据结构/7. 查找/image/{00E23800-5EDE-428B-A7EF-F65597AF4E31}.png",
-    "数据结构/7. 查找/平衡二叉树 AVL 的定义和查找.md",
-    "数据结构/7. 查找/image/{939137A7-0B01-4ECF-9B6C-5A1CF198EEA6}.png",
-    "数据结构/7. 查找/image/{0379C5C6-91B1-489E-BE5A-C7C221EBF6BE}.png",
-    "数据结构/7. 查找/image/{4899BCD8-C19C-4D29-88A2-6FD888586111}.png",
-    "数据结构/7. 查找/二叉排序树 BST 的定义和查找.md",
-    "数据结构/7. 查找/image/{E6562269-05CD-45CC-A57A-5923DAC4E77E}.png",
-    "数据结构/7. 查找/二叉排序树 BST 的操作.md",
     "未命名.md",
-    "数据结构/7. 查找/红黑树的操作.md",
     "数据结构/7. 查找/折半查找.md",
     "数据结构/7. 查找/顺序查找.md",
     "数据结构/7. 查找/分块查找.md",
@@ -218,15 +207,11 @@
     "数据结构/6. 图/多源最短路的 Floyd 算法.md",
     "数据结构/6. 图/单源最短路的 Dijkstra 算法.md",
     "数据结构/6. 图/最小生成树的 Kruskal 算法.md",
-    "数据结构/6. 图/最小生成树的 Prim 算法.md",
-    "数据结构/6. 图/最小生成树的概念和性质.md",
-    "[858..md",
     "数据结构/6. 图/image",
     "数据结构/6. 图",
     "数据结构/5. 树与二叉树/image",
     "数据结构/5. 树与二叉树",
     "数据结构/4. 串/image",
-    "数据结构/4. 串",
     "MODE/Untitled.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
