@@ -1,0 +1,2 @@
+- meticul-ous  meticu：软弱
+- *a. 细心的* Yet its longevity and [meticulous](meticulous.md) record-keeping make it fascinating.

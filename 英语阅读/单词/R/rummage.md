@@ -1,0 +1,2 @@
+- *n. 翻寻* 
+- *v. 翻寻* [Flipping](flip.md) through its archives is like [rummaging](rummage.md) through an [attic]() in search of the occasional treasure. 

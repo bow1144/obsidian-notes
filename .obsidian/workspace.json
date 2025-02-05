@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语阅读/0204.md",
-                "mode": "source",
+                "file": "英语阅读/外刊/0205.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0204"
+              "title": "0205"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mode.md",
+                "file": "英语阅读/外刊/0205.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mode"
+              "title": "0205 的反向链接列表"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "社会心理学——中国“河长制”治理模式.md",
+                "file": "英语阅读/外刊/0205.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "社会心理学——中国“河长制”治理模式 的出链列表"
+              "title": "0205 的出链列表"
             }
           },
           {
@@ -129,10 +129,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -146,9 +148,19 @@
               "icon": "lucide-list",
               "title": "社会心理学——中国“河长制”治理模式 的大纲"
             }
+          },
+          {
+            "id": "325c0881672a9b38",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,57 +174,58 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "138283044d64cae7",
   "lastOpenFiles": [
-    "().md",
-    "英语阅读/0204.md",
-    "MODE/Jun-21st -- Tea Bags Release Shocking Number of Plastic Particles into Your Drink.md",
-    "英语阅读/0203.md",
-    "数据结构/数据结构.md",
-    "数据结构/7. 查找/哈希查找及性能分析.md",
-    "数据结构/7. 查找/处理冲突的方法.md",
-    "数据结构/7. 查找/哈希函数的构造方法.md",
-    "数据结构/7. 查找/哈希表的基本概念.md",
-    "数据结构/7. 查找/image/{C19A6A18-9EB1-4792-9B76-85F6116CFEBC}.png",
-    "数据结构/7. 查找/image/{8D2A5E64-E478-4D7E-AA4D-9958E602EC55}.png",
-    "数据结构/7. 查找/image/{098AF669-EEB4-4BD3-8843-6E0846CB6ED3}.png",
-    "数据结构/7. 查找/image/{2D59B95D-A595-4525-B250-901C3E89F898}.png",
-    "数据结构/7. 查找/image/{24CD1220-EF30-4B6C-A13C-252BDE7A9F4C}.png",
-    "数据结构/7. 查找/image/{62C3046B-181E-4E7F-B4B0-3D316321D757}.png",
-    "数据结构/7. 查找/image/{27F210DF-85F7-4BC8-B862-83E457C532AC}.png",
-    "数据结构/7. 查找/image/{94C245DA-2847-4B9D-B790-9F053645FF39}.png",
-    "数据结构/7. 查找/image/{E482DE21-4319-4545-8CD1-260D596002D5}.png",
-    "数据结构/7. 查找/image/{1BC1439A-04A1-4B8A-B30F-37545366110E}.png",
-    "数据结构/7. 查找/B+Tree 的概念.md",
-    "数据结构/7. 查找/BTree 的操作.md",
-    "数据结构/7. 查找/BTree 的查找.md",
-    "数据结构/7. 查找/BTree 的定义和特点.md",
-    "竞赛/市场调查/选题.md",
-    "数据结构/7. 查找/红黑树的操作.md",
-    "数据结构/7. 查找/红黑树的定义.md",
-    "数据结构/7. 查找/平衡二叉树 AVL 的操作.md",
-    "数据结构/7. 查找/平衡二叉树 AVL 的定义和查找.md",
-    "数据结构/7. 查找/二叉排序树 BST 的操作.md",
-    "数据结构/7. 查找/二叉排序树 BST 的定义和查找.md",
-    "竞赛/市场调查",
-    "英语阅读/0129 Is Obesity a Disease？.md",
-    "竞赛",
-    "英语阅读",
-    "未命名.md",
-    "数据结构/7. 查找/折半查找.md",
-    "数据结构/7. 查找/顺序查找.md",
-    "数据结构/7. 查找/分块查找.md",
-    "数据结构/7. 查找/image",
-    "数据结构/7. 查找/查找的基本概念.md",
-    "数据结构/7. 查找",
-    "数据结构/6. 图/image",
-    "数据结构/6. 图",
-    "数据结构/5. 树与二叉树/image",
-    "数据结构/5. 树与二叉树",
-    "数据结构/4. 串/image",
+    "英语阅读/单词/M/merchant.md",
+    "英语阅读/外刊/0205.md",
+    "英语阅读/单词/B/bankrupt.md",
+    "英语阅读/单词/L/longevity.md",
+    "英语阅读/外刊",
+    "英语阅读/单词/H",
+    "英语阅读/单词/H/horrid.md",
+    "英语阅读/单词/P/pier.md",
+    "英语阅读/().md",
+    "英语阅读/单词/M/maliciously.md",
+    "英语阅读/单词/F/feloniously.md",
+    "英语阅读/单词/A/attic.md",
+    "英语阅读/单词/R/rummage.md",
+    "英语阅读/单词/F",
+    "英语阅读/单词/F/flip.md",
+    "英语阅读/单词/M/meticulous.md",
+    "英语阅读/外刊/0203.md",
+    "英语阅读/单词/P/promotion.md",
+    "英语阅读/单词/P",
+    "英语阅读/单词/G/gazetted.md",
+    "英语阅读/单词/G",
+    "英语阅读/单词/I/insolvency.md",
+    "英语阅读/单词/I",
+    "英语阅读/单词/L/liquidation.md",
+    "英语阅读/单词/L",
+    "英语阅读/单词/M/masthead.md",
+    "英语阅读/单词/S/sacre.md",
+    "英语阅读/单词/S",
+    "英语阅读/单词/R/rumour.md",
+    "英语阅读/单词/R/restoration.md",
+    "英语阅读/单词/R",
+    "英语阅读/单词/未命名.md",
+    "英语阅读/单词/T/turmoil.md",
+    "英语阅读/单词/A/amid.md",
+    "英语阅读/单词/T",
+    "英语阅读/单词/D/diplomat.md",
+    "image/{60A1B69F-595E-405B-9BCF-D3C5DFA7DCA2}.png",
+    "数据结构/8. 排序/image/{3B6C3DD9-1EEC-4205-B7BE-E0D06348CFE8}.png",
+    "数据结构/8. 排序/image/{F74FFCFF-9CCA-4D82-BEC0-6DFEDD287052} 1.png",
+    "数据结构/8. 排序/image/{F74FFCFF-9CCA-4D82-BEC0-6DFEDD287052}.png",
+    "数据结构/8. 排序/image/{2F2796D9-4157-47D1-8BF2-5223A7BE2069}.png",
+    "数据结构/8. 排序/image/{1F12CE94-2D2C-4A23-ABC6-5000F8059CEB}.png",
+    "数据结构/8. 排序/image/{4D817298-88E7-4FB8-9090-C79D06C5A6F4}.png",
+    "数据结构/8. 排序/image/{C8E2394C-661E-4322-A4AA-CF4276D62D0E}.png",
+    "数据结构/8. 排序/image/{F72B5945-8D4E-4F49-80AE-B74CC21B7F56}.png",
+    "数据结构/8. 排序/image/{2D1569BF-FC39-4CDB-88E7-BAA3E0C885DF}.png",
     "MODE/Untitled.canvas",
     "未命名 1.canvas",
     "未命名.canvas",

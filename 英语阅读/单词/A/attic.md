@@ -1,0 +1,2 @@
+- *n. 顶楼* [Flipping](flip.md) through its archives is like [rummaging](rummage.md) through an [attic](attic.md) in search of the occasional treasure. 
+- *a. 雅典的*

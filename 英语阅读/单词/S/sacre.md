@@ -1,0 +1,1 @@
+- *v. 吓到* It scared me to think I was alone in the building.

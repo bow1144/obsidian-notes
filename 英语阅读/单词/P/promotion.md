@@ -1,0 +1,2 @@
+- pro·motion  pro:变大的 mot-:移动，变大的移动是提升
+- *n. 提升，推广*  Another role is reporting military [promotions](promotion.md) and honours for public life

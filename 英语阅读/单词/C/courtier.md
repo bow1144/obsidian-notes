@@ -1,0 +1,2 @@
+- *n. (17世纪的)侍臣* Established in 1665, with [courtiers](courtier.md), government ministers and diplomats as its early journalists
+- court：*法庭，献殷勤*

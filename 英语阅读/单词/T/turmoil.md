@@ -1,0 +1,1 @@
+- *n. 混乱，骚动* The financial crisis put the whole country in economic turmoil.

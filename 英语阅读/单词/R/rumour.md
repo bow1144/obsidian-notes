@@ -1,0 +1,2 @@
+- *n. 谣言* There was a widespread rumour that they were getting divorced.
+- 谐音“辱骂”，谣言带来辱骂

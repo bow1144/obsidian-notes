@@ -1,0 +1,1 @@
+- *a. 破产的，缺乏的* It [advertised](app://obsidian.md/advertise.md) imported linens and [ostrich](app://obsidian.md/ostrich.md) feathers, and listed the average price of corn for each of England’s counties.

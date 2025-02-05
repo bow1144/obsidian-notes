@@ -1,0 +1,1 @@
+- *好像* And when it added that the American colonies had declared independence, it reported the news [as if](as if) it were a failed business or a lost dog.

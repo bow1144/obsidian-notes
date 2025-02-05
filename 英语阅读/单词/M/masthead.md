@@ -1,0 +1,2 @@
+- *n. 桅杆*
+- *n. （报纸的）头版头条*  “Published by Authority”, its [masthead](masthead.md) declared.

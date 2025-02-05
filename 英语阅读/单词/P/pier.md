@@ -1,0 +1,1 @@
+- *n. 码头* A pier runs out into the sea.

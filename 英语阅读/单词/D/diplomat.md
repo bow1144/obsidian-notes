@@ -1,0 +1,1 @@
+- *n. 外交官* Established in 1665, with [courtiers](courtier.md), government ministers and [diplomats](diplomat.md) as its early journalists

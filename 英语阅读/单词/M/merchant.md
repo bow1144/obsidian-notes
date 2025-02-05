@@ -1,0 +1,2 @@
+- *n. 商人* builders' merchant 建材批发商 It named freshly [bankrupted](app://obsidian.md/bankrupt.md) [merchants](app://obsidian.md/merchant.md).
+- *adj* 商人的

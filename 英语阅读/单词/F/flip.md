@@ -1,0 +1,3 @@
+- *v. 按开关，翻动* [Flipping](flip.md) through its archives is like [rummaging]() through an [attic]() in search of the occasional treasure.
+- *n. 浏览*
+- *a. 轻佻的*

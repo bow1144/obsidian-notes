@@ -1,0 +1,2 @@
+- long-ev-ity  long:长  ev:年纪，时间
+- *n. 长寿*  Yet its [longevity](longevity.md) and [meticulous](meticulous.md) record-keeping make it fascinating.

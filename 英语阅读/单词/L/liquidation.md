@@ -1,0 +1,1 @@
+- *n. 债务清算程序* One thread running through the Gazette’s history has been its role in documenting [liquidations](liquidation.md) and [insolvencies](insolvency.md)

@@ -1,0 +1,1 @@
+- *a. 非常讨厌的* the [horrid](horrid.md) crime of murder

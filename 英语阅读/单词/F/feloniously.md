@@ -1,0 +1,3 @@
+- *a. 犯罪的* Such as the £50 offered in 1829 as a reward for the “evil-disposed person or persons unknown” who “[feloniously](feloniously.md) and [maliciously]()” set fire to the wooden [pier]() in the Welsh village of Llanddulas.
+- felony：重罪
+- felonious：犯罪的

@@ -1,0 +1,1 @@
+- *n. 公报，报* The fear of being “[gazetted](gazetted.md)” still exists today, as it did in the 17th century.
